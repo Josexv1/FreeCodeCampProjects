@@ -1,0 +1,28 @@
+{
+  "name": "randomQuotes",
+  "homepage": "https://github.com/Josexv1/FreeCodeCampProjects",
+  "authors": [
+    "Josexv1 <jozhee@live.com>"
+  ],
+  "description": "Basic random quotes with jQuery",
+  "main": "index.html",
+  "keywords": [
+    "jquery",
+    "random",
+    "quotes"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "Materialize": "materialize#^0.97.6",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}
